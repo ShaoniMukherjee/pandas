@@ -63,10 +63,6 @@ Here are just a few of the things that pandas does well:
     generation and frequency conversion, moving window statistics,
     date shifting and lagging
     
-  - Powerful for data analysis and EDA.
-  [EDA]: https://www.analyticsvidhya.com/blog/2021/05/a-comprehensive-guide-to-data-analysis-using-pandas-hands-on-data-analysis-on-imdb-movies-data/#:~:text=Pandas%20provide%20extended%20data%20structures,%2C%20joining%2C%20and%20concatenating%20data.
-
-
    [missing-data]: https://pandas.pydata.org/pandas-docs/stable/user_guide/missing_data.html
    [insertion-deletion]: https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html#column-selection-addition-deletion
    [alignment]: https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html?highlight=alignment#intro-to-data-structures
